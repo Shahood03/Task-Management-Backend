@@ -8,3 +8,4 @@ bcrypt==5.0.0
 marshmallow==4.2.4
 psycopg2-binary==2.9.11
 sqlalchemy==2.0.48
+gunicorn
